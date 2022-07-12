@@ -1,0 +1,22 @@
+* {
+    margin: 0;
+    
+}
+
+#bar {
+    display: flex;
+    justify-content: flex-end;
+    color: white;
+    background: rgb(32, 20, 112);
+    flex-wrap: nowrap;
+    align-items: center;
+}
+
+#main {
+    display: flex;
+    justify-content: flex-end;
+}
+
+a {
+    text-decoration: none;
+}
